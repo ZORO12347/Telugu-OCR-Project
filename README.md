@@ -1,4 +1,4 @@
-# Telugu-OCR-Project
+# Telugu-OCR-Text-Recognition-Project
 
 ## Project Objective
 
